@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+dataset/
+*.wav
+*.flac
+*.mp3
+
+.idea/
+.vscode/
