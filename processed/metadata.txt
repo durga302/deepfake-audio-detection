@@ -1,0 +1,4 @@
+Sample Rate : 16000
+MFCC Features : 40
+Frame Length : 138
+Training Samples : 25380

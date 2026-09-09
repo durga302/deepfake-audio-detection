@@ -1,11 +1,24 @@
+# Python environment
 venv/
 __pycache__/
 *.pyc
 
+# Datasets and audio files
 dataset/
 *.wav
 *.flac
 *.mp3
+case_study/case_study2/audio_variations/
 
+# IDE files
 .idea/
 .vscode/
+
+# Temporary and deployment files
+cloudflared.exe
+public_url.txt
+*.log
+.gradio/
+
+# Large processed datasets
+processed/*.npy
